@@ -35,6 +35,14 @@ Each model is evaluated using the following metrics:
 - **Mean Squared Error (MSE)**: Measures the average squared difference between actual and predicted values.
 - **R-Squared (R2)**: Indicates the proportion of the variance in the target that is predictable from the features.
 
+## Dependencies
+To run the code, you will need the following Python libraries:
+
+- pandas
+- scikit-learn
+- matplotlib
+- google-colab (for file upload in Colab)
+
 ## Results
 The performance of each model is evaluated and visualized by plotting the actual vs predicted values. The results are printed in the console for each model, including MSE and R2.
 
